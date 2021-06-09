@@ -1,0 +1,97 @@
+Flow,Category,Sub-category,factor (kg CO2 eq)
+"1-Propanol, 3,3,3-trifluoro-2,2-bis(trifluoromethyl)-, HFE-7100",emission,air,297
+"Butane, 1,1,1,3,3-pentafluoro-, HFC-365mfc",emission,air,794
+"Butane, perfluoro-",emission,air,8860
+"Butane, perfluorocyclo-, PFC-318",emission,air,10300
+Carbon dioxide,emission,air,1
+"Carbon dioxide, biogenic",emission,air,1
+"Carbon dioxide, fossil",emission,air,1
+"Carbon dioxide, from soil or biomass stock",emission,air,1
+"Carbon dioxide, land transformation",emission,air,1
+Chloroform,emission,air,31
+Dimethyl ether,emission,air,1
+Dinitrogen monoxide,emission,air,298
+"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",emission,air,1430
+"Ethane, 1,1,1-trichloro-, HCFC-140",emission,air,146
+"Ethane, 1,1,1-trifluoro-, HFC-143a",emission,air,4470
+"Ethane, 1,1,2,2-tetrafluoro-, HFC-134",emission,air,1100
+"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",emission,air,6130
+"Ethane, 1,1,2-trifluoro-, HFC-143",emission,air,353
+"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",emission,air,725
+"Ethane, 1,1-difluoro-, HFC-152a",emission,air,124
+"Ethane, 1,2-dibromotetrafluoro-, Halon 2402",emission,air,1640
+"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114",emission,air,10000
+"Ethane, 1,2-difluoro-, HFC-152",emission,air,53
+"Ethane, 1-chloro-1,1-difluoro-, HCFC-142b",emission,air,2310
+"Ethane, 1-chloro-2,2,2-trifluoro-(difluoromethoxy)-, HCFE-235da2",emission,air,350
+"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",emission,air,77
+"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",emission,air,609
+"Ethane, chloropentafluoro-, CFC-115",emission,air,7370
+"Ethane, fluoro-, HFC-161",emission,air,12
+"Ethane, hexafluoro-, HFC-116",emission,air,12200
+"Ethane, pentafluoro-, HFC-125",emission,air,3500
+"Ether, 1,1,1-trifluoromethyl methyl-, HFE-143a",emission,air,756
+"Ether, 1,1,2,2-Tetrafluoroethyl 2,2,2-trifluoroethyl-, HFE-347mcc3",emission,air,575
+"Ether, 1,1,2,2-Tetrafluoroethyl 2,2,2-trifluoroethyl-, HFE-347mcf2",emission,air,374
+"Ether, 1,1,2,2-Tetrafluoroethyl methyl-, HFE-254cb2",emission,air,359
+"Ether, 1,1,2,3,3,3-Hexafluoropropyl methyl-, HFE-356mec3",emission,air,101
+"Ether, 1,1,2,3,3,3-Hexafluoropropyl methyl-, HFE-356pcc3",emission,air,110
+"Ether, 1,1,2,3,3,3-Hexafluoropropyl methyl-, HFE-356pcf2",emission,air,265
+"Ether, 1,1,2,3,3,3-Hexafluoropropyl methyl-, HFE-356pcf3",emission,air,502
+"Ether, 1,2,2-trifluoroethyl trifluoromethyl-, HFE-236ea2",emission,air,989
+"Ether, 1,2,2-trifluoroethyl trifluoromethyl-, HFE-236fa",emission,air,487
+"Ether, 2,2,3,3,3-Pentafluoropropyl methyl-, HFE-365mcf3",emission,air,11
+"Ether, di(difluoromethyl), HFE-134",emission,air,6320
+"Ether, difluoromethyl 2,2,2-trifluoroethyl-, HFE-245cb2",emission,air,708
+"Ether, difluoromethyl 2,2,2-trifluoroethyl-, HFE-245fa1",emission,air,286
+"Ether, difluoromethyl 2,2,2-trifluoroethyl-, HFE-245fa2",emission,air,659
+"Ether, ethyl 1,1,2,2-tetrafluoroethyl-, HFE-374pc2",emission,air,557
+"Ether, nonafluorobutane ethyl-, HFE569sf2 (HFE-7200)",emission,air,59
+"Ether, pentafluorodimethyl-, HFE-125",emission,air,14900
+HFC-245fa,emission,air,1030
+HFE-227EA,emission,air,1540
+HFE-236ca12 (HG-10),emission,air,2800
+HFE-263fb2,emission,air,11
+HFE-329mcc2,emission,air,919
+HFE-338mcf2,emission,air,552
+HFE-338pcc13 (HG-01),emission,air,1500
+HFE-347pcf2,emission,air,580
+HFE-43-10pccc124 (H-Galden1040x),emission,air,1870
+"Hexane, perfluoro-",emission,air,9300
+Methane,emission,air,25
+"Methane, biogenic",emission,air,25
+"Methane, bromo-, Halon 1001",emission,air,5
+"Methane, bromochlorodifluoro-, Halon 1211",emission,air,1890
+"Methane, bromodifluoro-, Halon 1201",emission,air,404
+"Methane, bromotrifluoro-, Halon 1301",emission,air,7140
+"Methane, chlorodifluoro-, HCFC-22",emission,air,1810
+"Methane, chlorotrifluoro-, CFC-13",emission,air,14400
+"Methane, dibromo-",emission,air,1.54
+"Methane, dichloro-, HCC-30",emission,air,8.7
+"Methane, dichlorodifluoro-, CFC-12",emission,air,10900
+"Methane, dichlorofluoro-, HCFC-21",emission,air,151
+"Methane, difluoro-, HFC-32",emission,air,675
+"Methane, fluoro-, HFC-41",emission,air,92
+"Methane, fossil",emission,air,25
+"Methane, iodotrifluoro-",emission,air,0.4
+"Methane, monochloro-, R-40",emission,air,13
+"Methane, tetrachloro-, R-10",emission,air,1400
+"Methane, tetrafluoro-, R-14",emission,air,7390
+"Methane, trichlorofluoro-, CFC-11",emission,air,4750
+"Methane, trifluoro-, HFC-23",emission,air,14800
+Nitrogen fluoride,emission,air,17200
+PFC-9-1-18,emission,air,7500
+PFPMIE,emission,air,10300
+"Pentane, 2,3-dihydroperfluoro-, HFC-4310mee",emission,air,1640
+"Pentane, perfluoro-",emission,air,9160
+"Propane, 1,1,1,2,2,3-hexafluoro-, HFC-236cb",emission,air,1340
+"Propane, 1,1,1,2,3,3,3-heptafluoro-, HFC-227ea",emission,air,3220
+"Propane, 1,1,1,2,3,3-hexafluoro-, HFC-236ea",emission,air,1370
+"Propane, 1,1,1,3,3,3-hexafluoro-, HCFC-236fa",emission,air,9810
+"Propane, 1,1,2,2,3-pentafluoro-, HFC-245ca",emission,air,640
+"Propane, 1,3-dichloro-1,1,2,2,3-pentafluoro-, HCFC-225cb",emission,air,595
+"Propane, 3,3-dichloro-1,1,1,2,2-pentafluoro-, HCFC-225ca",emission,air,122
+"Propane, perfluoro-",emission,air,8830
+"Propane, perfluorocyclo-",emission,air,17340
+Sulfur hexafluoride,emission,air,22800
+trifluoromethyl sulphur pentafluoride,emission,air,17700

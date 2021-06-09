@@ -1,0 +1,29 @@
+Flow,Category,Sub-category,Unit,Result
+Barium,emission,air,kg,0.00014952
+Carbon dioxide,emission,air,kg,0.197171358
+Carbon monoxide,emission,air,kg,0.000321818
+Methane,emission,air,kg,0.001696603
+Nitrogen dioxide,emission,air,kg,5.79E-07
+Nitrogen oxides,emission,air,kg,0.003021331
+Nitrous oxide,emission,air,kg,4.16E-07
+"Particulate matter, ? 10?m",emission,air,kg,1.33E-05
+"Particulate matter, ? 2.5?m",emission,air,kg,0.000005095
+Sulfur dioxide,emission,air,kg,0.000450731
+Volatile organic compounds,emission,air,kg,0.000296876
+Biological Oxygen Demand,emission,water,kg,0.000111305
+Boron,emission,water,kg,7.62E-07
+Calcium,emission,water,kg,0.000116207
+Chloride,emission,water,kg,0.001583425
+Hydrocarbons,emission,water,kg,1.07E-05
+Iron,emission,water,kg,4.85E-07
+Magnesium,emission,water,kg,0.000019651
+Manganese,emission,water,kg,0.000007728
+Nitrogen,emission,water,kg,5.01E-06
+Phosphorus,emission,water,kg,6.63E-08
+Silicate group,emission,water,kg,3.29E-07
+Sodium,emission,water,kg,0.0004998
+Sulfate,emission,water,kg,0.000611148
+Total dissolved solids,emission,water,kg,0.01063401
+Total Organic Carbon,emission,water,kg,0.000068478
+Bicarbonate,saline water body,ocean,kg,0.0010584
+"Disposal, solid waste, unspecified",Technosphere Flows,CUTOFF Flows,kg,0.0247247
